@@ -1,0 +1,82 @@
+{
+    "status": "OK",
+    "data": [
+      {
+        "name": "Covishield",
+        "category": "Viral vector vaccine",
+        "description": "The Oxford–AstraZeneca COVID-19 vaccine, sold under the brand names Vaxzevria[4] and Covishield,[5] is a viral vector vaccine[6] produced by the British University of Oxford, British-Swedish company AstraZeneca, and the Coalition for Epidemic Preparedness Innovations.[6][7][8] Finland, Denmark and Norway suspended the use of the Oxford–AstraZeneca vaccine due to a small number of reports of a rare blood clot disorder.",
+        "price": 10,
+        "stock": 500
+      },
+      {
+        "name": "Pfizer–BioNTech",
+        "category": "mRNA vaccine",
+        "description": "The Pfizer–BioNTech COVID-19 vaccine, sold under the brand name Comirnaty,[143] is an mRNA vaccine[144] produced by the German company BioNTech and the American company Pfizer.[144][145][146] In Hong Kong, Macau, and Taiwan, Comirnaty is distributed by Fosun Pharma",
+        "price": 99,
+        "stock": 300
+      },
+      {
+        "name": "Janssen",
+        "category": "Viral vector vaccine",
+        "description": "The Janssen COVID-19 vaccine[242] is a viral vector vaccine[243] produced by Janssen Pharmaceutica (a subsidiary of Johnson & Johnson) and Beth Israel Deaconess Medical Center.[244][245] It is also known as Johnson & Johnson COVID-19 Vaccine and as COVID-19 Vaccine Janssen.",
+        "price": 50,
+        "stock": 0
+      },
+      {
+        "name": "Moderna",
+        "category": "mRNA vaccine",
+        "description": "The Moderna COVID-19 vaccine, also known as Spikevax,[296] is an mRNA vaccine[297] produced by the American company Moderna, the U.S. National Institute of Allergy and Infectious Diseases, the U.S. Biomedical Advanced Research and Development Authority, and the Coalition for Epidemic Preparedness Innovations.",
+        "price": 20,
+        "stock": 300
+      },
+      {
+        "name": "Sinopharm BIBP",
+        "category": "Inactivated virus vaccine",
+        "description": "The Sinopharm BIBP COVID-19 vaccine is an inactivated virus vaccine produced by the China National Pharmaceutical Group (Sinopharm) and its Beijing Institute of Biological Products.",
+        "price": 500,
+        "stock": 0
+      },
+      {
+        "name": "Sputnik V",
+        "category": "Viral vector vaccine",
+        "description": "The Sputnik V COVID-19 vaccine is a viral vector vaccine[475] produced by the Russian Gamaleya Research Institute of Epidemiology and Microbiology.",
+        "price": 499,
+        "stock": 5
+      },
+      {
+        "name": "CoronaVac",
+        "category": "Inactivated virus vaccine",
+        "description": "The CoronaVac COVID-19 vaccine is an inactivated virus vaccine[560] produced by the Chinese company Sinovac Biotech.[560][561][562]",
+        "price": 310,
+        "stock": 0
+      },
+      {
+        "name": "Covaxin",
+        "category": "Inactivated virus vaccine",
+        "description": "Covaxin is an inactivated virus vaccine produced by the Indian company Bharat Biotech in collaboration with the Indian Council of Medical Research–National Institute of Virology.",
+        "price": 600,
+        "stock": 100
+      },
+      {
+        "name": "Sputnik Light",
+        "category": "Viral vector vaccine",
+        "description": "Sputnik Light is a viral vector vaccine,[643] produced by the Russian Gamaleya Research Institute of Epidemiology and Microbiology. It consists of the first dose of the Sputnik V vaccine, which is based on the Ad26 vector.[644]",
+        "price": 700,
+        "stock": 0
+      },
+      {
+        "name": "Convidecia",
+        "category": "Viral vector vaccine",
+        "description": "Convidecia is a viral vector vaccine[667] produced by the Chinese company CanSino Biologics and the Beijing Institute of Biotechnology of the Academy of Military Medical Sciences.",
+        "price": 1000,
+        "stock": 0
+      },
+      {
+        "name": "QazCovid-in",
+        "category": "Inactivated virus vaccine",
+        "description": "QazCovid-in, also known as QazVac, is an inactivated virus vaccine developed by the Research Institute for Biological Safety Problems in Kazakhstan.",
+        "price": 10000,
+        "stock": 1
+      }
+    ]
+  }
